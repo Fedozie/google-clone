@@ -87,6 +87,10 @@ main{
     width: 1rem;
 }
 
+.search-icon, .microphone{
+    cursor: pointer;
+}
+
 .search-icon{
     margin-left: 12px;
     top: 12.5px;
